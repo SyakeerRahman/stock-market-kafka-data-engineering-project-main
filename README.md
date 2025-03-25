@@ -32,3 +32,10 @@ I want to share my latest Data Engineering project where I put my skills to the 
 
 ## 1. Run EC2 to Install Kafka
 
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/306103bb-fe98-45e8-b2a2-9e8c1cc2e01f" />
+<img width="952" alt="image" src="https://github.com/user-attachments/assets/c8c8f051-3f45-4b43-af18-3dcfe0f5d362" />
+
+
+## 2. Connect to EC2 using SSH Client and install required dependancies
+
+
